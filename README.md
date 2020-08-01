@@ -1,8 +1,10 @@
 ### Hello there 👋
 
-During the day I'm doing software things at the BBC. Me and my team look after the authentication and authorisation systems that give users a personalised experience for services like BBC iPlayer and BBC Sounds.
+👨‍💻 During the day I'm doing software things at the BBC.
 
-During the evening I'm tending to my graveyard of side-project ideas that just one day might see a 1.0.0 release.
+🔒 Me and my team look after the authentication and authorisation systems that give users a personalised experience for services like BBC iPlayer and BBC Sounds.
+
+🙈 During the evening I'm tending to my graveyard of side-project ideas that just one day might see a 1.0.0 release.
 
 If terms like OAuth2 and OIDC float your boat, you might be interested in my [Turret](https://github.com/rosswilson/turret) project. It's a demonstration of a OIDC provider.
 
