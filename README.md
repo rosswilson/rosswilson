@@ -8,7 +8,7 @@
 
 🙈 During the evening I'm tending to my graveyard of side-project ideas that one day might just see a 1.0.0 release.
 
-If terms like OAuth2 and OIDC float your boat you might be interested in my [Turret](https://github.com/rosswilson/turret) project. It's shaping up to be a demonstration of an OIDC identity provider.
+If terms like OAuth2 and OIDC float your boat you might be interested in my [Turret](https://github.com/rosswilson/turret) project. It's shaping up to be a demonstration of an OIDC identity provider. I'm also looking an approach using Elixir, it's at [Turret Elixir](https://github.com/rosswilson/turret-elixir).
 
 <!--
 **rosswilson/rosswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
