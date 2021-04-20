@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-👨‍💻 During the day I'm doing software things at the BBC.
+👨‍💻 During the day I'm doing software architecture things at the BBC.
 
-🔒 Me and my team look after the authentication and authorisation systems that give users a personalised experience for services like BBC iPlayer and BBC Sounds. The technology stack is a series of microservices, predominantly using Node.is and Java.
+🔒 Previously I looked after the authentication and authorisation systems that give users a personalised experience for services like BBC iPlayer and BBC Sounds. The technology stack is a series of microservices, predominantly using Node.js and Java.
 
 💬 Ask me about the work going on at the BBC. I've been fortunate to work with a lot of teams and projects during my time here, and I'm always happy to chat.
 
