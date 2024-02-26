@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-👨‍💻 During the day I'm doing software architecture things at Gumtree.
+👨‍💻 During the day I'm doing software architecture things at the BBC.
 
 🔒 Previously I looked after the authentication and authorisation systems at the BBC that give users a personalised experience for services like BBC iPlayer and BBC Sounds. The technology stack is a series of microservices, predominantly using Node.js and Java.
 
